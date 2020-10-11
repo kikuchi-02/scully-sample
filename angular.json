@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "scully-sample"
+    }
+  },
+  "defaultProject": "scully-sample",
+  "cli": {
+    "analytics": false
+  }
 }
